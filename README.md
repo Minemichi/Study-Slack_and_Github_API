@@ -3,3 +3,6 @@
 ### 参考
 SlackとGithubの一番基本的な連携
   - https://qiita.com/yousan/items/05b7c61ecca02bc3eceb
+
+GithubのprojectsをSlackに通知している例
+  - https://walkingmask.hatenablog.com/entry/2018/04/10/195659
